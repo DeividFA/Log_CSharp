@@ -1,9 +1,10 @@
-﻿using System;
+﻿using GravarLog.Interface;
+using System;
 using System.IO;
 
 namespace GravarLog
 {
-    class GravarLog
+    class GravarLog : IGravarLog
     {
         private string _path { get; }
 
