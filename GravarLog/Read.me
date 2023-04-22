@@ -1,0 +1,35 @@
+﻿Proposito do projeto
+
+Este projeto tem o proposito de criar uma class para salvar e excluir os logs da aplicação.
+
+Motivação: Melhorar a maneira como a aplição windows form que estou trabalhando gerencia o log a ser salvo em arquivo, sendo que hoje dentro da aplicação
+não existe uma maneira automatica de salvar e excluir os logs que são criados, sendo necessario incluir no arquivo de inicialização a opção "SALVAR_LOGS" para que sejam salvos
+em arquivo, com intuito de automatizar e melhorar estou desenvolvendo esta classe para que gerencie o a maneira de salvar e de excluir o arquivo de log.
+
+Como utilizar:
+
+Deve ser criado um objeto GravarLog e como parametro obrigatorio deve receber um PATH com o nome e o local onde será salvo o arquivo log 
+Exemplo: "DiretorioRaiz\Diretorio\Arquivo.log" No windows "C:\Temp\Log.txt", podendo conter quantos diretorio e subdiretorios conforme desejar,
+ainda a extenção desejada do arquivo uma vez que este gravara um texto neste primeiro momento não criptogrado dentro do arquivo.
+
+Funções Publicas.
+
+public GravarLog(string path) 
+--> Construtor que recebe uma string path e valida se a mesma e diferente de null ou vazia.
+
+public void SalvarLog(string linha) 
+--> Contem um validação interna antes de acionar o metodo de escrita no arquivo.
+--> recebe uma string linha que será sava no arquivo de log.
+
+public void DeleteLog(int numberDaysNotExclusion) 
+--> Olhara para a data de criação \ modificação do arquivo log que esta no mesmo diretorio onde se esta salvando os atuais logs.
+--> Nesta função e enviado um numero inteiro que determina em dias quanto tempo os arquivos ficaram ser ser excluidos sendo que,
+o valor 0 (Zero) ou menor que 0 (Zero) garante a não exclusão dos arquivos os deixando permanente.
+
+Funções internas
+
+private bool FileLog()
+--> Verifica se o diretorio e valido antes de chamar a função para criar e salvar o texto do log.
+
+private void GravarLinha(string linha)
+--> Cria caso não exista o arquivo e grava o texto de log recebido. 
