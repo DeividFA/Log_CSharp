@@ -17,7 +17,7 @@ namespace GravarLog
 
             Console.WriteLine("Criando Objeto.");
             //GravarLog log = new GravarLog(NomeArquivoLog);
-            var gravarlog = new GravarLogController(new GravarLog(NomeArquivoLog));
+            var gravarlog = new GravarLogController(new GravarLogs(NomeArquivoLog));
 
             Console.WriteLine("Chamando metodo de inserir texto e salvando no arquivo de log.");
             // log.SalvarLog("Teste de Log");

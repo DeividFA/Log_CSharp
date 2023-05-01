@@ -21,7 +21,6 @@ C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\GravarLog.runt
 C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\GravarLog.dll
 C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\ref\GravarLog.dll
 C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\GravarLog.pdb
-C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.csproj.AssemblyReference.cache
 C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.GeneratedMSBuildEditorConfig.editorconfig
 C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.AssemblyInfoInputs.cache
 C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.AssemblyInfo.cs
