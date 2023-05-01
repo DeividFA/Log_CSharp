@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F0HbsAMEcEmr5vVwBEEpHuKCPaAfgXy0NwW7CO8aTG9kdKfxq40bdiiWMQifyEtM6xdXGLzJpR/s7yADR8C57w==",
+  "dgSpecHash": "YB/UqV0nwYYjZ739rY4lxHKLpKg4h/cpzsYKUZ65gzbXGaV7EsS3Pu+ld2LvtwEGgl5BsYUBKzIu4k4SeBXAZA==",
   "success": true,
-  "projectFilePath": "C:\\Estudo\\Projetos Mentoria\\GravarLog\\GravarLog\\GravarLog.csproj",
+  "projectFilePath": "C:\\Estudo\\Projetos_Mentoria\\Log_CSharp\\GravarLog\\GravarLog.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

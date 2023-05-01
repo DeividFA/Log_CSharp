@@ -14,3 +14,18 @@ C:\Estudo\Projetos Mentoria\GravarLog\GravarLog\obj\Debug\net5.0\GravarLog.dll
 C:\Estudo\Projetos Mentoria\GravarLog\GravarLog\obj\Debug\net5.0\ref\GravarLog.dll
 C:\Estudo\Projetos Mentoria\GravarLog\GravarLog\obj\Debug\net5.0\GravarLog.pdb
 C:\Estudo\Projetos Mentoria\GravarLog\GravarLog\obj\Debug\net5.0\GravarLog.genruntimeconfig.cache
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\GravarLog.exe
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\GravarLog.deps.json
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\GravarLog.runtimeconfig.json
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\GravarLog.runtimeconfig.dev.json
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\GravarLog.dll
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\ref\GravarLog.dll
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\bin\Debug\net5.0\GravarLog.pdb
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.AssemblyInfoInputs.cache
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.AssemblyInfo.cs
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.csproj.CoreCompileInputs.cache
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.dll
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\ref\GravarLog.dll
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.pdb
+C:\Estudo\Projetos_Mentoria\Log_CSharp\GravarLog\obj\Debug\net5.0\GravarLog.genruntimeconfig.cache
